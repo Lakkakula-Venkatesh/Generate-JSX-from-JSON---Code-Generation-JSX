@@ -45,8 +45,6 @@ function toTitleCase(str) {
     return recurse(obj);
    }
   
-  module.exports=generateCodeFromObject;
-  
   
   // ReactDOM.render(<App />, document.getElementById("root")); 
   module.exports=generateCodeFromObject;
